@@ -28,6 +28,7 @@ body {
 h2 {
   height: 5vmin;
   color: white;
+  margin-bottom: 1vh;
 }
 .scoreboard {
   display: flex;
