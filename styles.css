@@ -9,7 +9,7 @@ body {
   background-color: black;
 }
 .board {
-  height: 90vmin;
+  height: 85vmin;
   width: 90vmin;
   background-color: #74e274;
   display: grid;
