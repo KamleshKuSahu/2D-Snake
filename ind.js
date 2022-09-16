@@ -1,6 +1,6 @@
-var foodm = new Audio("music/food.mp3");
-var gameoverm = new Audio("music/gameover.mp3");
-var movem = new Audio("music/move.mp3");
+var foodm = new Audio("food.mp3");
+var gameoverm = new Audio("gameover.mp3");
+var movem = new Audio("move.mp3");
 var s = new Array(10),
   ch = new Array(10);
 for (var i = 0; i < 10; i++) {
