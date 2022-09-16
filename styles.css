@@ -9,7 +9,7 @@ body {
   background-color: black;
 }
 .board {
-  height: 85vmin;
+  height: 80vmin;
   width: 90vmin;
   background-color: #74e274;
   display: grid;
@@ -42,7 +42,7 @@ button {
   background-color: #4caf50; /* Green */
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 0 5vmin 0 5vmin;
   text-align: center;
   text-decoration: none;
   display: inline-block;
