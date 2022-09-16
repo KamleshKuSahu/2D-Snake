@@ -28,7 +28,8 @@ body {
 h2 {
   height: 5vmin;
   color: white;
-  margin-bottom: 5vh;
+  margin-top: 3vmin;
+  margin-bottom: 3vh;
 }
 .scoreboard {
   display: flex;
@@ -39,8 +40,7 @@ h2 {
   justify-content: center;
 }
 button {
-  font-size: 4vh;
-  height: 5vmin;
+  font-size: 5vmin;
   background-color: #4caf50; /* Green */
   border: none;
   color: white;
@@ -49,6 +49,6 @@ button {
   text-decoration: none;
   display: inline-block;
   margin: 0;
-  margin-top: 3vh;
+  margin-top: 3vmin;
   cursor: pointer;
 }
